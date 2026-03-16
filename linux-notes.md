@@ -1,6 +1,6 @@
-Day1 - Linux Basics
+# Day 1 – Linux Basics
 
-Commands learned:
+Commands Learned:
 
 1- pwd - shows current directory
 
@@ -10,6 +10,6 @@ Commands learned:
 
 4- cd - change directory
 
-5- touch - create file
+5- touch - creates file
 
 6- rm - delete file
