@@ -1,8 +1,16 @@
-DEVOPS LEARNING JOURNEY
+## DEVOPS LEARNING JOURNEY
 
-This repository documents my journey to becoming a DevOps/Cloud Engineer.
+This repository documents my journey to becoming a DevOps/Cloud Engineer. For deep dive in any topic check that particular day.
 
-#Day1
+## Tools & Technologies
+    Linux
+    Git & GitHub
+    AWS (coming soon)
+    Docker (coming soon)
+    CI/CD (coming soon)
+    Kubernetes (coming soon)
+
+## Day1 - Linus Basics
 
 Learned Linux basics and terminal commands.
 
@@ -20,7 +28,7 @@ Commands practiced:
 
     6- rm
 
-#Day2
+## Day2 - File handeling and Debugging
 
 1- File viewing commands->
 
@@ -41,14 +49,21 @@ Commands practiced:
     history- shows previous commands
 
     clear- clears terminal screen
+    
+## Day 3 — File Permissions
 
-Day 3 — File Permissions
-- Understanding permissions (`r`, `w`, `x`)
-- Using `chmod` to modify access
-- Numeric permissions (`777`, `644`, `755`)
-- Real-world debugging: fixing "Permission denied" errors
+    chmod -> change file permissions
+    ls -l -> shows permissions
+
+1- Understanding permissions (`r`, `w`, `x`)
+
+2- Using `chmod` to modify access
+
+3- Numeric permissions (`777`, `644`, `755`)
+
+3- Real-world debugging: fixing "Permission denied" errors
 
 
 #Notes can be found in: linux-notes.md
 
-#Goal: Build strong DevOps skills including Docker, CI/CD, AWS, Terraform and Kuberenetes
+#Goal: Build strong DevOps skills including Docker, CI/CD, AWS, Terraform and Kuberenetes and become a job-ready DevOps Engineer, by building real-world projects and mastering cloud and automation tools.
