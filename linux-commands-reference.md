@@ -1,4 +1,4 @@
-# 🚀 DevOps Commands Reference
+# DevOps Commands Reference
 
 This file contains commands I use during my DevOps learning journey.
 
