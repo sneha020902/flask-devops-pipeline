@@ -4,12 +4,12 @@ Day2 - Linux Commands
 
     2- less- view file content with scrolling (press q to exit)
 
-3- head- shows first lines of a file
+    3- head- shows first lines of a file
 
-4- tail- shows last lines of a file (used for logs)
+    4- tail- shows last lines of a file (used for logs)
 
-5- grep- search for text in files
+    5- grep- search for text in files
 
-6- history- shows previous commands
+    6- history- shows previous commands
 
-7- clear- clears terminal screen
+    7- clear- clears terminal screen
