@@ -1,52 +1,53 @@
-Day3 - File Permissions
+Day3 - FILE PERMISSIONS
 
-chmod -> change file permissions
+  chmod -> change file permissions
 
-ls -l -> shows permissions
+  ls -l -> shows permissions
 
-Permission Types:
+PERMISSION TYPES:
 
-r- read
+  r- read
 
-w- wrire
+  w- wrire
 
-x- execute
+  x- execute
 
-Each permission has a vaue:
+EACH PERMISSION HAS A VALUE:
 
-r- 4
+  r- 4
 
-w- 2
+  w- 2
 
-x- 1
+  x- 1
 
-rwx = 4+2+1 = 7
+  EXAMPLE:
 
-rw- = 4+2 = 6
+  rwx = 4+2+1 = 7
 
-r-- =4
+  rw- = 4+2 = 6
 
-Users:
-owner | group | others
+  r-- =4
 
-Example:
+USERS: owner | group | others
 
-chmod +x file.sh -> make it executable
+EXAMPLE:
 
-chmod -x file.sh -> remove execution permissions
+  chmod +x file.sh -> make it executable
 
-chmod 777 file.sh -> full access
+  chmod -x file.sh -> remove execution permissions
 
-chmod 644 file.txt -> standard file permission
+  chmod 777 file.sh -> full access
 
-What is 777?
+  chmod 644 file.txt -> standard file permission
 
-rwxrwxrwx 
+WHAT IS 777?
 
-Means- Owner(rwx-7), Group(rwx-7), Others(rwx-7): everyone can read write and execute
+  rwxrwxrwx 
 
-What is 644"
+  MEANS- Owner(rwx-7), Group(rwx-7), Others(rwx-7): everyone can read write and execute
 
-rw-r--r--
+WHAT IS 644"
 
-Means- Owner(rw- -> 6), Group(r-- -> 4),  Others(r-- -> 4): Owner can read and write, others and group can only read. 
+  rw-r--r--
+
+  MEANS- Owner(rw- -> 6), Group(r-- -> 4),  Others(r-- -> 4): Owner can read and write, others and group can only read. 
