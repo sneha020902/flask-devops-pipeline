@@ -20,6 +20,27 @@ Commands practiced:
 
 6- rm
 
+#Day2
+
+File viewing commands->
+
+cat- displays content of a file
+
+less- view file content with scrolling (press q to exit)
+
+head- shows first lines of a file
+
+tail- shows last lines of a file (used for logs)
+
+Search and debugging tools->
+
+grep- search for text in files
+
+Terminal productivity->
+
+history- shows previous commands
+
+clear- clears terminal screen
 
 Notes can be found in: linux-notes.md
 
