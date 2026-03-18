@@ -1,8 +1,8 @@
 Day3 - FILE PERMISSIONS
 
-  chmod -> change file permissions
+    chmod -> change file permissions
 
-  ls -l -> shows permissions
+    ls -l -> shows permissions
 
 PERMISSION TYPES:
 
