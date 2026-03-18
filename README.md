@@ -42,6 +42,13 @@ Commands practiced:
 
     clear- clears terminal screen
 
+Day 3 — File Permissions
+- Understanding permissions (`r`, `w`, `x`)
+- Using `chmod` to modify access
+- Numeric permissions (`777`, `644`, `755`)
+- Real-world debugging: fixing "Permission denied" errors
+
+
 #Notes can be found in: linux-notes.md
 
 #Goal: Build strong DevOps skills including Docker, CI/CD, AWS, Terraform and Kuberenetes
