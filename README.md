@@ -8,17 +8,17 @@ Learned Linux basics and terminal commands.
 
 Commands practiced:
 
-1- pwd
+  1- pwd
 
-2- ls
+  2- ls
 
-3- mkdir
+  3- mkdir
 
-4- cd
+  4- cd
 
-5- touch
+  5- touch
 
-6- rm
+  6- rm
 
 #Day2
 
