@@ -6,13 +6,13 @@ This repository documents my journey to becoming a DevOps/Cloud Engineer. For de
 
 -> Day 1: [Linux Basics](day1-linux-basics.md)
 
--> Day 2: ' day2-linux-commands.md '
+-> Day 2: [Linux Commands](day2-linux-commands.md)'
 
--> Day 3: ' day3-permissions.md '
+-> Day 3: [Permissions](day3-permissions.md)
 
--> DevOps Commands: ' devops-commands-reference.md '
+-> DevOps Commands: [Reference](devops-commands-reference.md)
 
--> Day 4: ' day4-ssh.md '
+-> Day 4: [SSH](day4-ssh.md)
 
   
 ## Tools & Technologies
@@ -23,7 +23,7 @@ This repository documents my journey to becoming a DevOps/Cloud Engineer. For de
     CI/CD (coming soon)
     Kubernetes (coming soon)
 
-## Day1 - Linux Basics [view notes] (day1-linux-basics.md)
+## Day1 - Linux Basics 
 
 Learned Linux basics and terminal commands.
 Commands practiced:
@@ -34,6 +34,7 @@ Commands practiced:
     4- cd
     5- touch
     6- rm
+[view notes] (day1-linux-basics.md)
 
 ## Day2 - File handeling and Debugging [view notes ' day2-linux-commands.md ']
 
