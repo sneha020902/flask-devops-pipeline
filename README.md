@@ -14,6 +14,8 @@ This repository documents my journey to becoming a DevOps/Cloud Engineer. For de
 
 -> Day 4: [SSH](day4-ssh.md)
 
+-> Day 5: [AWS EC2 & Cloud Server](day5-aws-ec2.md)
+
   
 ## Tools & Technologies
     Linux
@@ -79,6 +81,16 @@ What is SSH?
     Connecting to servers
 
 [view notes](day4-ssh.md)
+
+## Day 5 — AWS EC2 & Cloud Server  
+  
+    Launched EC2 instance  
+    Connected using SSH  
+    Installed Git on server  
+    Cloned GitHub repo  
+    Fixed authentication using SSH keys
+
+[View Notes](day5-aws-ec2.md)
 
 
 #Goal: Build strong DevOps skills including Docker, CI/CD, AWS, Terraform and Kuberenetes and become a job-ready DevOps Engineer, by building real-world projects and mastering cloud and automation tools.
